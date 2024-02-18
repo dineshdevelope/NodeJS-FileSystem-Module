@@ -1,0 +1,5 @@
+
+        Favorite_place is Golden Temple, Sripuram
+        Favorite_temple is Jalakandeswarar Temple
+        Vacation_spot is   Amirthi Zoological Park
+        

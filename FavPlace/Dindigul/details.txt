@@ -1,0 +1,5 @@
+
+        Favorite_place is Sirumalai
+        Favorite_temple is Kodaikanal Kurinji Andavar Temple
+        Vacation_spot is   Kodaikanal
+        

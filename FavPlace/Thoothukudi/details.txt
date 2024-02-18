@@ -1,0 +1,5 @@
+
+        Favorite_place is Kalakkad Mundanthurai Tiger Reserve
+        Favorite_temple is Thiruchendur Murugan Temple
+        Vacation_spot is   Manapad
+        

@@ -1,0 +1,5 @@
+
+        Favorite_place is Rayakottah
+        Favorite_temple is Thiruvenkadamudayan Temple
+        Vacation_spot is   Krishnagiri Reservoir Project
+        

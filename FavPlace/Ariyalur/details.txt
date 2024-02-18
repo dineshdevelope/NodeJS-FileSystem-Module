@@ -1,0 +1,5 @@
+
+        Favorite_place is Thirumanur
+        Favorite_temple is Udayarpalayam Kalyana Venkataramanaswamy Temple
+        Vacation_spot is   Sathanur Dam
+        

@@ -1,0 +1,5 @@
+
+        Favorite_place is Meenakshi Amman Temple
+        Favorite_temple is Alagar Kovil
+        Vacation_spot is   Kodaikanal
+        

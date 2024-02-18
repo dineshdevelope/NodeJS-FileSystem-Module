@@ -1,0 +1,5 @@
+
+        Favorite_place is Hogenakkal Falls
+        Favorite_temple is Theerthagirishwarar Temple
+        Vacation_spot is   Krishnagiri Dam
+        

@@ -1,0 +1,5 @@
+
+        Favorite_place is Rameswaram
+        Favorite_temple is Ramanathaswamy Temple
+        Vacation_spot is   Dhanushkodi Beach
+        

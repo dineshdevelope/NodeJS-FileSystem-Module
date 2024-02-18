@@ -1,0 +1,5 @@
+
+        Favorite_place is Ooty
+        Favorite_temple is Murugan Temple, Elk Hill
+        Vacation_spot is   Botanical Gardens, Ooty
+        

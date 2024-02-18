@@ -1,0 +1,5 @@
+
+        Favorite_place is Yercaud
+        Favorite_temple is Kottai Mariamman Temple
+        Vacation_spot is   Shevaroy Hills
+        

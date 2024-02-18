@@ -1,0 +1,5 @@
+
+        Favorite_place is Thiruvarur Thyagaraja Temple
+        Favorite_temple is Vaitheeswaran Kovil
+        Vacation_spot is   Muthupet Mangrove Forest
+        

@@ -1,0 +1,5 @@
+
+        Favorite_place is Vellore Fort
+        Favorite_temple is Ratnagiri Murugan Temple
+        Vacation_spot is   Yelagiri Hills
+        

@@ -1,0 +1,5 @@
+
+        Favorite_place is Thirukovilur
+        Favorite_temple is Ulagalantha Perumal Temple
+        Vacation_spot is   Aathinam Falls
+        

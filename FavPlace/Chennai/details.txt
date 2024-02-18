@@ -1,0 +1,5 @@
+
+        Favorite_place is Marina Beach
+        Favorite_temple is Kapaleeshwarar Temple
+        Vacation_spot is   Guindy National Park
+        

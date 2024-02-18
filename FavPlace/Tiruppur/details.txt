@@ -1,0 +1,5 @@
+
+        Favorite_place is Avanashiappan Temple
+        Favorite_temple is Avinashiappar Temple
+        Vacation_spot is   Kovai Kutralam Falls
+        

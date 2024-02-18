@@ -1,0 +1,5 @@
+
+        Favorite_place is Kamarajar Memorial House
+        Favorite_temple is Meenakshi Sundareswarar Temple
+        Vacation_spot is   Meghamalai Wildlife Sanctuary
+        

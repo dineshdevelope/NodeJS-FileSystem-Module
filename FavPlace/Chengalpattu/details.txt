@@ -1,0 +1,5 @@
+
+        Favorite_place is Mahabalipuram
+        Favorite_temple is Tirumalpuram Rock Cut Temple
+        Vacation_spot is   Sadras Beach
+        

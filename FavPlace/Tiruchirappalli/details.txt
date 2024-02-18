@@ -1,0 +1,5 @@
+
+        Favorite_place is Rockfort Temple
+        Favorite_temple is Sri Ranganathaswamy Temple
+        Vacation_spot is   Kollidam River
+        

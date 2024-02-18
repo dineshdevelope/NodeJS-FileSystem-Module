@@ -1,0 +1,5 @@
+
+        Favorite_place is Gingee Fort
+        Favorite_temple is Thiruvamathur Temple
+        Vacation_spot is   Tirukkoyilur
+        

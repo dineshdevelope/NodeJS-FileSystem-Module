@@ -1,0 +1,5 @@
+
+        Favorite_place is Velankanni Church
+        Favorite_temple is Sikkal Singaravelar Temple
+        Vacation_spot is   Vedaranyam Bird Sanctuary
+        

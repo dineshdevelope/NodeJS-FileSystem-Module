@@ -1,0 +1,5 @@
+
+        Favorite_place is Kanchi Kudil
+        Favorite_temple is Kanchi Kailasanathar Temple
+        Vacation_spot is   Vedanthangal Bird Sanctuary
+        

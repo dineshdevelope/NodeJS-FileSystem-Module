@@ -1,0 +1,5 @@
+
+        Favorite_place is Meghamalai
+        Favorite_temple is Sothuparai Dam Temple
+        Vacation_spot is   Suruli Falls
+        

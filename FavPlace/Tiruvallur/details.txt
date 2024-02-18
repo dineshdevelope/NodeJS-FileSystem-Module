@@ -1,0 +1,5 @@
+
+        Favorite_place is Tiruttani Murugan Temple
+        Favorite_temple is Poondi Madha Basilica
+        Vacation_spot is   Pulicat Lake Bird Sanctuary
+        

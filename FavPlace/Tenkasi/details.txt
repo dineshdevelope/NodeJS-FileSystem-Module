@@ -1,0 +1,5 @@
+
+        Favorite_place is Courtallam Falls
+        Favorite_temple is Sankarankovil Temple
+        Vacation_spot is   Palaruvi Waterfalls
+        

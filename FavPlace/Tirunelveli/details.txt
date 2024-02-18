@@ -1,0 +1,5 @@
+
+        Favorite_place is Kanyakumari
+        Favorite_temple is Nellaiappar Temple
+        Vacation_spot is   Vattakottai Fort
+        

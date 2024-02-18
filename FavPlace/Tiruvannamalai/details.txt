@@ -1,0 +1,5 @@
+
+        Favorite_place is Arunachalesvara Temple
+        Favorite_temple is Gingee Fort Temple
+        Vacation_spot is   Jawahar Toy Museum
+        

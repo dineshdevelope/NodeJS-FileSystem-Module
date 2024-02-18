@@ -1,0 +1,14 @@
+{
+  "name": "01-node-project",
+  "version": "1.0.0",
+  "description": "\"Node-JS Task\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"NodeJS-Task\""
+  ],
+  "author": "dineshdevelope\"",
+  "license": "ISC"
+}

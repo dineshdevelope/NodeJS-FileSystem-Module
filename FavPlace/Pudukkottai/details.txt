@@ -1,0 +1,5 @@
+
+        Favorite_place is Sittanavasal Cave
+        Favorite_temple is Thirumayam Permual Temple
+        Vacation_spot is   Veeranam Lake
+        

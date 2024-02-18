@@ -1,0 +1,5 @@
+
+        Favorite_place is Marudamalai Temple
+        Favorite_temple is Dhyanalinga Temple
+        Vacation_spot is   Black Thunder Water Theme Park
+        

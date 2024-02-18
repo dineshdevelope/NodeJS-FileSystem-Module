@@ -1,0 +1,5 @@
+
+        Favorite_place is Kodiveri Dam
+        Favorite_temple is Bannari Amman Temple
+        Vacation_spot is   Vellode Bird Sanctuary
+        

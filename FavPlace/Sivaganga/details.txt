@@ -1,0 +1,5 @@
+
+        Favorite_place is Sivaganga Palace
+        Favorite_temple is Sri Paramakalyani Perumal Temple
+        Vacation_spot is   Karaikudi
+        

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Ariyalur",
+    "favorite_place": "Thirumanur",
+    "favorite_temple": "Udayarpalayam Kalyana Venkataramanaswamy Temple",
+    "vacation_spot": "Sathanur Dam"
+  },
+  {
+    "name": "Chengalpattu",
+    "favorite_place": "Mahabalipuram",
+    "favorite_temple": "Tirumalpuram Rock Cut Temple",
+    "vacation_spot": "Sadras Beach"
+  },
+  {
+    "name": "Chennai",
+    "favorite_place": "Marina Beach",
+    "favorite_temple": "Kapaleeshwarar Temple",
+    "vacation_spot": "Guindy National Park"
+  },
+  {
+    "name": "Coimbatore",
+    "favorite_place": "Marudamalai Temple",
+    "favorite_temple": "Dhyanalinga Temple",
+    "vacation_spot": "Black Thunder Water Theme Park"
+  },
+  {
+    "name": "Cuddalore",
+    "favorite_place": "Pichavaram",
+    "favorite_temple": "Nellaiappar Temple",
+    "vacation_spot": "Silver Beach"
+  },
+  {
+    "name": "Dharmapuri",
+    "favorite_place": "Hogenakkal Falls",
+    "favorite_temple": "Theerthagirishwarar Temple",
+    "vacation_spot": "Krishnagiri Dam"
+  },
+  {
+    "name": "Dindigul",
+    "favorite_place": "Sirumalai",
+    "favorite_temple": "Kodaikanal Kurinji Andavar Temple",
+    "vacation_spot": "Kodaikanal"
+  },
+  {
+    "name": "Erode",
+    "favorite_place": "Kodiveri Dam",
+    "favorite_temple": "Bannari Amman Temple",
+    "vacation_spot": "Vellode Bird Sanctuary"
+  },
+  {
+    "name": "Kallakurichi",
+    "favorite_place": "Thirukovilur",
+    "favorite_temple": "Ulagalantha Perumal Temple",
+    "vacation_spot": "Aathinam Falls"
+  },
+  {
+    "name": "Kancheepuram",
+    "favorite_place": "Kanchi Kudil",
+    "favorite_temple": "Kanchi Kailasanathar Temple",
+    "vacation_spot": "Vedanthangal Bird Sanctuary"
+  },
+  {
+    "name": "Karur",
+    "favorite_place": "Pasupathieswarar Temple",
+    "favorite_temple": "Kalyana Pasupatheeswarar Temple",
+    "vacation_spot": "Mayanur"
+  },
+  {
+    "name": "Krishnagiri",
+    "favorite_place": "Rayakottah",
+    "favorite_temple": "Thiruvenkadamudayan Temple",
+    "vacation_spot": "Krishnagiri Reservoir Project"
+  },
+  {
+    "name": "Madurai",
+    "favorite_place": "Meenakshi Amman Temple",
+    "favorite_temple": "Alagar Kovil",
+    "vacation_spot": "Kodaikanal"
+  },
+  {
+    "name": "Nagapattinam",
+    "favorite_place": "Velankanni Church",
+    "favorite_temple": "Sikkal Singaravelar Temple",
+    "vacation_spot": "Vedaranyam Bird Sanctuary"
+  },
+  {
+    "name": "Namakkal",
+    "favorite_place": "Namakkal Fort",
+    "favorite_temple": "Namakkal Anjaneyar Temple",
+    "vacation_spot": "Kolli Hills"
+  },
+  {
+    "name": "Nilgiris",
+    "favorite_place": "Ooty",
+    "favorite_temple": "Murugan Temple, Elk Hill",
+    "vacation_spot": "Botanical Gardens, Ooty"
+  },
+  {
+    "name": "Perambalur",
+    "favorite_place": "Siruvachur Mathura Kaliamman Temple",
+    "favorite_temple": "Gnayiru Gramam Agastheeswarar Temple",
+    "vacation_spot": "Vellar River"
+  },
+  {
+    "name": "Pudukkottai",
+    "favorite_place": "Sittanavasal Cave",
+    "favorite_temple": "Thirumayam Permual Temple",
+    "vacation_spot": "Veeranam Lake"
+  },
+  {
+    "name": "Ramanathapuram",
+    "favorite_place": "Rameswaram",
+    "favorite_temple": "Ramanathaswamy Temple",
+    "vacation_spot": "Dhanushkodi Beach"
+  },
+  {
+    "name": "Ranipet",
+    "favorite_place": "Vellore Fort",
+    "favorite_temple": "Ratnagiri Murugan Temple",
+    "vacation_spot": "Yelagiri Hills"
+  },
+  {
+    "name": "Salem",
+    "favorite_place": "Yercaud",
+    "favorite_temple": "Kottai Mariamman Temple",
+    "vacation_spot": "Shevaroy Hills"
+  },
+  {
+    "name": "Sivaganga",
+    "favorite_place": "Sivaganga Palace",
+    "favorite_temple": "Sri Paramakalyani Perumal Temple",
+    "vacation_spot": "Karaikudi"
+  },
+  {
+    "name": "Tenkasi",
+    "favorite_place": "Courtallam Falls",
+    "favorite_temple": "Sankarankovil Temple",
+    "vacation_spot": "Palaruvi Waterfalls"
+  },
+  {
+    "name": "Thanjavur",
+    "favorite_place": "Brihadeeswarar Temple",
+    "favorite_temple": "Swamimalai Murugan Temple",
+    "vacation_spot": "Thanjavur Royal Palace"
+  },
+  {
+    "name": "Theni",
+    "favorite_place": "Meghamalai",
+    "favorite_temple": "Sothuparai Dam Temple",
+    "vacation_spot": "Suruli Falls"
+  },
+  {
+    "name": "Thoothukudi",
+    "favorite_place": "Kalakkad Mundanthurai Tiger Reserve",
+    "favorite_temple": "Thiruchendur Murugan Temple",
+    "vacation_spot": "Manapad"
+  },
+  {
+    "name": "Tiruchirappalli",
+    "favorite_place": "Rockfort Temple",
+    "favorite_temple": "Sri Ranganathaswamy Temple",
+    "vacation_spot": "Kollidam River"
+  },
+  {
+    "name": "Tirunelveli",
+    "favorite_place": "Kanyakumari",
+    "favorite_temple": "Nellaiappar Temple",
+    "vacation_spot": "Vattakottai Fort"
+  },
+  {
+    "name": "Tirupathur",
+    "favorite_place": "Vaniyambadi",
+    "favorite_temple": "Vallimalai Murugan Temple",
+    "vacation_spot": "Amirthi Zoological Park"
+  },
+  {
+    "name": "Tiruppur",
+    "favorite_place": "Avanashiappan Temple",
+    "favorite_temple": "Avinashiappar Temple",
+    "vacation_spot": "Kovai Kutralam Falls"
+  },
+  {
+    "name": "Tiruvallur",
+    "favorite_place": "Tiruttani Murugan Temple",
+    "favorite_temple": "Poondi Madha Basilica",
+    "vacation_spot": "Pulicat Lake Bird Sanctuary"
+  },
+  {
+    "name": "Tiruvannamalai",
+    "favorite_place": "Arunachalesvara Temple",
+    "favorite_temple": "Gingee Fort Temple",
+    "vacation_spot": "Jawahar Toy Museum"
+  },
+  {
+    "name": "Tiruvarur",
+    "favorite_place": "Thiruvarur Thyagaraja Temple",
+    "favorite_temple": "Vaitheeswaran Kovil",
+    "vacation_spot": "Muthupet Mangrove Forest"
+  },
+  {
+    "name": "Vellore",
+    "favorite_place": "Golden Temple, Sripuram",
+    "favorite_temple": "Jalakandeswarar Temple",
+    "vacation_spot": "Amirthi Zoological Park"
+  },
+  {
+    "name": "Viluppuram",
+    "favorite_place": "Gingee Fort",
+    "favorite_temple": "Thiruvamathur Temple",
+    "vacation_spot": "Tirukkoyilur"
+  },
+  {
+    "name": "Virudhunagar",
+    "favorite_place": "Kamarajar Memorial House",
+    "favorite_temple": "Meenakshi Sundareswarar Temple",
+    "vacation_spot": "Meghamalai Wildlife Sanctuary"
+  }
+]
